@@ -1,0 +1,14 @@
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\bin\Debug\Fast Track Flights.exe.config
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\bin\Debug\Fast Track Flights.exe
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\bin\Debug\Fast Track Flights.pdb
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\obj\Debug\Fast Track Flights.csprojResolveAssemblyReference.cache
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\obj\Debug\MainWindow.g.cs
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\obj\Debug\App.g.cs
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\obj\Debug\Fast Track Flights_MarkupCompile.cache
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\obj\Debug\Fast Track Flights_MarkupCompile.lref
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\obj\Debug\MainWindow.baml
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\obj\Debug\Fast Track Flights.g.resources
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\obj\Debug\Fast_Track_Flights.Properties.Resources.resources
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\obj\Debug\Fast Track Flights.csproj.GenerateResource.Cache
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\obj\Debug\Fast Track Flights.exe
+C:\Users\Jerome\Desktop\Stock System\Fast Track Flights\Fast Track Flights\obj\Debug\Fast Track Flights.pdb
